@@ -234,6 +234,18 @@ h4 {
   background: var(--gold);
 }
 
+.section-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.section-head h3 {
+  margin: 0.4rem 0 0;
+}
+
 .glass-card {
   background: var(--glass);
   backdrop-filter: blur(16px);
@@ -427,6 +439,14 @@ h4 {
   box-shadow: 0 16px 40px rgba(15, 63, 51, 0.08);
   display: grid;
   gap: 0.8rem;
+}
+
+.card-link {
+  color: inherit;
+}
+
+.card-link:hover {
+  color: var(--forest);
 }
 
 .product-card img,
@@ -663,6 +683,11 @@ h4 {
 
   .image-stack {
     min-height: 300px;
+  }
+
+  .section-head {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 

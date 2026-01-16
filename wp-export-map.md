@@ -1,0 +1,41 @@
+# WP Export Page Map
+
+- About Us | `about-us` | https://greengoldtrading.com.au/about-us/ | mapped -> about.html
+- About Us Type 2 | `about-us-type-2` | https://greengoldtrading.com.au/about-us-type-2/ | merged -> about.html
+- Articles | `articles` | https://greengoldtrading.com.au/articles/ | mapped -> articles.html
+- Ask Dor | `ask-dor` | https://greengoldtrading.com.au/ask-dor/ | removed -> n/a
+- Bcann 100:100 Indica | `bcann-100100-indica` | https://greengoldtrading.com.au/products/bcann-100100-indica/ | mapped -> bcann-100100-indica.html
+- Bcann 100:100 Sativa | `bcann-100100-sativa` | https://greengoldtrading.com.au/products/bcann-100100-sativa/ | mapped -> bcann-100100-sativa.html
+- Bcann 220:70 Indica | `bcann-22070-indica` | https://greengoldtrading.com.au/products/bcann-22070-indica/ | mapped -> bcann-22070-indica.html
+- Bcann 220:70 Sativa | `bcann-22070-sativa` | https://greengoldtrading.com.au/products/bcann-22070-sativa/ | mapped -> bcann-22070-sativa.html
+- Checkout Page | `checkout-page` | https://greengoldtrading.com.au/checkout-page/ | mapped -> checkout.html
+- CMI | `cmi` | https://greengoldtrading.com.au/cmi/ | mapped -> cmi.html
+- Compare | `yith-compare` | https://greengoldtrading.com.au/yith-compare/ | mapped -> compare.html
+- CONDITIONS OF USE | `conditions-of-use` | https://greengoldtrading.com.au/conditions-of-use/ | mapped -> terms.html
+- Contact Us | `contact-us` | https://greengoldtrading.com.au/contact-us/ | mapped -> contact.html
+- Contact Us Type 2 | `contact-us-type-2` | https://greengoldtrading.com.au/contact-us-type-2/ | merged -> contact.html
+- Default Redirect Page | `default-redirect-page` | https://greengoldtrading.com.au/default-redirect-page/ | mapped -> default-redirect.html
+- Education | `education` | https://greengoldtrading.com.au/education/ | mapped -> education.html
+- Green Gold Trading Consumer Medical Information (CMI) | `green-gold-trading-consumer-medical-information-cmi` | https://greengoldtrading.com.au/cmi/green-gold-trading-consumer-medical-information-cmi/ | mapped -> cmi-consumer-medical-information.html
+- Green Gold Trading Consumer Medical Information (CMI) | `green-gold-trading-consumer-medical-information-cmi-2` | https://greengoldtrading.com.au/cmi/green-gold-trading-consumer-medical-information-cmi-2/ | merged -> cmi-consumer-medical-information.html
+- Health Professional Portal | `health-professional-portal` | https://greengoldtrading.com.au/health-professional-portal/ | merged -> hcp-portal.html
+- Healthcare Professional Portal - Home | `healthcare-professional-portal-home` | https://greengoldtrading.com.au/health-professional-portal/healthcare-professional-portal-home/ | mapped -> hcp-portal-home.html
+- Home Page | `wpb-medical-v2` | https://greengoldtrading.com.au/ | mapped -> index.html
+- IUMP Individual Page: Jen Hall | `iump_individual_page_jen-hall` | https://greengoldtrading.com.au/iump_individual_page_jen-hall/ | mapped -> iump-jen-hall.html
+- IUMP Individual Page: tjmeds | `iump_individual_page_tjmeds` | https://greengoldtrading.com.au/iump_individual_page_tjmeds/ | mapped -> iump-tjmeds.html
+- Lost Password | `lost-password` | https://greengoldtrading.com.au/lost-password/ | mapped -> lost-password.html
+- Member Login | `member-login` | https://greengoldtrading.com.au/member-login/ | mapped -> member-login.html
+- Member TOS Page | `member-tos-page` | https://greengoldtrading.com.au/member-tos-page/ | mapped -> member-tos.html
+- My account | `my-account` | https://greengoldtrading.com.au/my-account/ | mapped -> my-account.html
+- My Account | `my-account-2` | https://greengoldtrading.com.au/my-account-2/ | mapped -> my-account-2.html
+- Order Tracking | `order-tracking` | https://greengoldtrading.com.au/order-tracking/ | mapped -> order-tracking.html
+- Privacy Policy | `privacy-policy` | https://greengoldtrading.com.au/privacy-policy/ | mapped -> privacy.html
+- Products | `products` | https://greengoldtrading.com.au/products/ | mapped -> products.html
+- Public Individual Page | `public-individual-page` | https://greengoldtrading.com.au/public-individual-page/ | mapped -> public-individual-page.html
+- Register | `register` | https://greengoldtrading.com.au/register/ | mapped -> register.html
+- Starry Night Choice | `starry-night-choice` | https://greengoldtrading.com.au/products/starry-night-choice/ | mapped -> starry-night-choice.html
+- Starry Night Prime | `starry-night-prime` | https://greengoldtrading.com.au/products/starry-night-prime/ | mapped -> starry-night-prime.html
+- Subscription Plan | `subscription-plan` | https://greengoldtrading.com.au/subscription-plan/ | mapped -> subscription-plan.html
+- Thank You Page | `thank-you-page` | https://greengoldtrading.com.au/thank-you-page/ | mapped -> thank-you.html
+- Water Lilies Choice | `water-lilies-choice` | https://greengoldtrading.com.au/products/water-lilies-choice/ | mapped -> water-lilies-choice.html
+- Water Lilies Prime | `water-lilies-prime` | https://greengoldtrading.com.au/products/water-lilies-prime/ | mapped -> water-lilies-prime.html

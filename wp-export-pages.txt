@@ -1,0 +1,39 @@
+- About Us | about-us | https://greengoldtrading.com.au/about-us/
+- About Us Type 2 | about-us-type-2 | https://greengoldtrading.com.au/about-us-type-2/
+- Articles | articles | https://greengoldtrading.com.au/articles/
+- Ask Dor | ask-dor | https://greengoldtrading.com.au/ask-dor/
+- Bcann 100:100 Indica | bcann-100100-indica | https://greengoldtrading.com.au/products/bcann-100100-indica/
+- Bcann 100:100 Sativa | bcann-100100-sativa | https://greengoldtrading.com.au/products/bcann-100100-sativa/
+- Bcann 220:70 Indica | bcann-22070-indica | https://greengoldtrading.com.au/products/bcann-22070-indica/
+- Bcann 220:70 Sativa | bcann-22070-sativa | https://greengoldtrading.com.au/products/bcann-22070-sativa/
+- Checkout Page | checkout-page | https://greengoldtrading.com.au/checkout-page/
+- CMI | cmi | https://greengoldtrading.com.au/cmi/
+- Compare | yith-compare | https://greengoldtrading.com.au/yith-compare/
+- CONDITIONS OF USE | conditions-of-use | https://greengoldtrading.com.au/conditions-of-use/
+- Contact Us | contact-us | https://greengoldtrading.com.au/contact-us/
+- Contact Us Type 2 | contact-us-type-2 | https://greengoldtrading.com.au/contact-us-type-2/
+- Default Redirect Page | default-redirect-page | https://greengoldtrading.com.au/default-redirect-page/
+- Education | education | https://greengoldtrading.com.au/education/
+- Green Gold Trading Consumer Medical Information (CMI) | green-gold-trading-consumer-medical-information-cmi | https://greengoldtrading.com.au/cmi/green-gold-trading-consumer-medical-information-cmi/
+- Green Gold Trading Consumer Medical Information (CMI) | green-gold-trading-consumer-medical-information-cmi-2 | https://greengoldtrading.com.au/cmi/green-gold-trading-consumer-medical-information-cmi-2/
+- Health Professional Portal | health-professional-portal | https://greengoldtrading.com.au/health-professional-portal/
+- Healthcare Professional Portal - Home | healthcare-professional-portal-home | https://greengoldtrading.com.au/health-professional-portal/healthcare-professional-portal-home/
+- Home Page | wpb-medical-v2 | https://greengoldtrading.com.au/
+- IUMP Individual Page: Jen Hall | iump_individual_page_jen-hall | https://greengoldtrading.com.au/iump_individual_page_jen-hall/
+- IUMP Individual Page: tjmeds | iump_individual_page_tjmeds | https://greengoldtrading.com.au/iump_individual_page_tjmeds/
+- Lost Password | lost-password | https://greengoldtrading.com.au/lost-password/
+- Member Login | member-login | https://greengoldtrading.com.au/member-login/
+- Member TOS Page | member-tos-page | https://greengoldtrading.com.au/member-tos-page/
+- My account | my-account | https://greengoldtrading.com.au/my-account/
+- My Account | my-account-2 | https://greengoldtrading.com.au/my-account-2/
+- Order Tracking | order-tracking | https://greengoldtrading.com.au/order-tracking/
+- Privacy Policy | privacy-policy | https://greengoldtrading.com.au/privacy-policy/
+- Products | products | https://greengoldtrading.com.au/products/
+- Public Individual Page | public-individual-page | https://greengoldtrading.com.au/public-individual-page/
+- Register | register | https://greengoldtrading.com.au/register/
+- Starry Night Choice | starry-night-choice | https://greengoldtrading.com.au/products/starry-night-choice/
+- Starry Night Prime | starry-night-prime | https://greengoldtrading.com.au/products/starry-night-prime/
+- Subscription Plan | subscription-plan | https://greengoldtrading.com.au/subscription-plan/
+- Thank You Page | thank-you-page | https://greengoldtrading.com.au/thank-you-page/
+- Water Lilies Choice | water-lilies-choice | https://greengoldtrading.com.au/products/water-lilies-choice/
+- Water Lilies Prime | water-lilies-prime | https://greengoldtrading.com.au/products/water-lilies-prime/
